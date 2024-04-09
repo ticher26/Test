@@ -1,0 +1,14 @@
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\bin\Debug\net7.0\FilterShortStrings.exe
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\bin\Debug\net7.0\FilterShortStrings.deps.json
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\bin\Debug\net7.0\FilterShortStrings.runtimeconfig.json
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\bin\Debug\net7.0\FilterShortStrings.dll
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\bin\Debug\net7.0\FilterShortStrings.pdb
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.AssemblyInfoInputs.cache
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.AssemblyInfo.cs
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.csproj.CoreCompileInputs.cache
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.dll
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\refint\FilterShortStrings.dll
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.pdb
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\FilterShortStrings.genruntimeconfig.cache
+C:\Users\Черенковы\OneDrive\Рабочий стол\Test\FilterShortStrings\obj\Debug\net7.0\ref\FilterShortStrings.dll
